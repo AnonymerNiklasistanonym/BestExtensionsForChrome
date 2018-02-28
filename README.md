@@ -6,7 +6,7 @@ List of all the extensions I would install in Google Chrome / Chromium.
 
 Supported tags (always in this order):
 
-- `also on firefox`- The extension is also available for the Firefox browser
+- `also on firefox`- The extension is also available for the Firefox browser (Quantum)
 - `open source` - The code of the software is hosted online and can be viewed by anyone which means if there are any back doors/bugs/privacy issues anyone can flag or discover them
 
 ---
@@ -35,7 +35,8 @@ Supported tags (always in this order):
 - [Reddit Comment Collapser](https://chrome.google.com/webstore/detail/reddit-comment-collapser/njmimaecgocggclbecipdimilidimlpl?utm_source=chrome-app-launcher-info-dialog): [`also on firefox`](https://addons.mozilla.org/en-GB/firefox/addon/reddit_comment_collapser/) [`open source`](https://github.com/tom-james-watson/reddit-comment-collapser)<br>Collapses comment threads on reddit
 - [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci?utm_source=chrome-app-launcher-info-dialog): [`open source`](https://github.com/harshjv/github-repo-size)<br>View the repository size even of your private repositories (next to license, and commit number)
 - [Application Launcher for Drive (by Google)](https://chrome.google.com/webstore/detail/application-launcher-for/lmjegmlicamnimmfhcmpkclmigmmcbeh?utm_source=chrome-app-launcher-info-dialog):<br>Open Google Drive files while browsing online directly with programs installed on your computer
-- [Leo Dictionary Widget](https://chrome.google.com/webstore/detail/leo-dictionary-widget/kepemmpmljphklmpfgfmhpjhpdlccpke?utm_source=chrome-app-launcher-info-dialog):<br>WIth one click you can find translations of words in many languages and always both directions thanks to leo.org (the default selection is German <=> English)
+- [Leo Dictionary Widget](https://chrome.google.com/webstore/detail/leo-dictionary-widget/kepemmpmljphklmpfgfmhpjhpdlccpke?utm_source=chrome-app-launcher-info-dialog):<br>With one click you can find translations of words in many languages and always both directions thanks to leo.org (the default selection is German <=> English)
+- [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog):<br>Every new tab has a friendly high resolution picture that changes daily and shows the current time + additionally the weather and a ToDo list
 
 ## Apps
 
